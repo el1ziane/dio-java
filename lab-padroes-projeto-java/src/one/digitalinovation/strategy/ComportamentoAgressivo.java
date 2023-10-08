@@ -1,4 +1,4 @@
-package one.digitalinivation.strategy;
+package one.digitalinovation.strategy;
 
 public class ComportamentoAgressivo implements Comportamento{
 
